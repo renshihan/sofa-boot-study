@@ -27,8 +27,8 @@
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.20.0-GA" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.13.Final" level="project" />
     <orderEntry type="library" name="Maven: com.alipay.sofa:hessian:3.3.0" level="project" />
-    <orderEntry type="library" name="Maven: com.alipay.sofa:runtime-sofa-boot-starter:2.3.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alipay.sofa:infra-sofa-boot-starter:2.3.1" level="project" />
+    <orderEntry type="module" module-name="runtime-sofa-boot-starter" />
+    <orderEntry type="module" module-name="infra-sofa-boot-starter" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.4.RELEASE" level="project" />
@@ -51,7 +51,7 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.3.4.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: com.alipay.sofa:healthcheck-sofa-boot-starter:2.3.1" level="project" />
+    <orderEntry type="module" module-name="healthcheck-sofa-boot-starter" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.47" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:1.4.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.2.RELEASE" level="project" />
